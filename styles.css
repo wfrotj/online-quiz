@@ -37,3 +37,7 @@ h1 {
   align-items: center;
   justify-content: center;
 }
+.scoreResult {
+  display: flex;
+  background-color: bisque;
+}
