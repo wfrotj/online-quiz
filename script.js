@@ -23,9 +23,9 @@ const quizQuestions = [
   },
   {
     question:
-      "3. What do you call to the vocal music of Mindanao used in reading his/her Qur'an and other books in his/her Islam religion?",
+      "3. What do you call to the vocal music of Mindanao used for serenading his/her loved ones.",
     options: ["A. Lugu", "B. Kalangan", "C. Lunsey", "Yaya"],
-    answer: "A. Lugu",
+    answer: "B. Kalangan",
   },
   {
     question:
