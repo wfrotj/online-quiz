@@ -106,7 +106,7 @@ function checkAnswers() {
   });
 
   // Create a new element to display the score
-  document.body.innerHTML = `<div className="scoreResult"><h1>Congratulations ${userName.value} of ${userSection.value}! You scored ${score} out of ${quizQuestions.length}</h1><div>`;
+  document.body.innerHTML = `<h1>Congratulations ${userName.value} 7-${userSection.value}!</h1><p>  You scored ${score} out of ${quizQuestions.length}</p>`;
 
   // Append the score element to the score display section
   scoreSection.appendChild(scoreElement);
